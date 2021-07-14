@@ -2,6 +2,8 @@
 
 Check out my latest project at [https://www.mailboss.org](https://www.mailboss.org). It allows you to create and manage recurring emails from any mail client.
 
+And in keeping with the "Boss" theme, I recently released an open source tab manager for Chrome called Tab Boss. Check it out here: [https://github.com/drcallaway/tab-boss](https://github.com/drcallaway/tab-boss)
+
 <!--
 **drcallaway/drcallaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
